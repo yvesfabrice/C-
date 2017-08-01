@@ -1,0 +1,9 @@
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\Greetings.Properties.Resources.resources
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\Greetings.csproj.GenerateResource.Cache
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\Greetings.pdb
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Greetings\Greetings\obj\Debug\GreetingsbyFabrice.frmGreetings.resources
