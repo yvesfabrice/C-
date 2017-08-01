@@ -1,0 +1,9 @@
+c:\users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\bin\Debug\Add product This one.exe.config
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\bin\Debug\Add product This one.exe
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\bin\Debug\Add product This one.pdb
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add product This one.csprojResolveAssemblyReference.cache
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add_product_This_one.lblAddProduct.resources
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add_product_This_one.Properties.Resources.resources
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add product This one.csproj.GenerateResource.Cache
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add product This one.exe
+C:\Users\kenmogne\Downloads\introdaction to progamming Nick (1)\introdaction to progamming Nick\Add product This one\Add product This one\obj\Debug\Add product This one.pdb
